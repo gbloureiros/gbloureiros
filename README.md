@@ -9,7 +9,7 @@
 
 ## Sobre mim
 
-- Estou cursando Ciência da Computação na Unicarioca, além disso, faço um curso por fora da faculdade, chamado DevQuest Full-Stack, focado em frontend, mas com o básico do back-end. Também cursei dois anos de ensino técnico no Rezende Rammel durante o ensino médio, interrompendo o último ano devido à pandemia. Possuo conhecimentos avançados em HTML5 e CSS, além de noções básicas em Javascript, SQL, Power BI, Python e Pacote Office (Word, Excel, Power Point). Esses conhecimentos foram adquiridos através dos meus estudos pessoais, do técnico, do curso e da faculdade. Alguns projetos podem ser encontrados no meu GitHub.
+- Estou cursando Ciência da Computação na Unicarioca, além disso, faço um curso por fora da faculdade, chamado DevQuest Full-Stack, focado em frontend, mas com o básico do back-end. Também cursei dois anos de ensino técnico no Rezende Rammel durante o ensino médio, interrompendo o último ano devido à pandemia. Possuo conhecimentos avançados em HTML5 e CSS, além de noções básicas em Javascript, SQL, Power BI, Python e Pacote Office (Word, Excel, Power Point). Esses conhecimentos foram adquiridos através dos meus estudos pessoais, do técnico, do curso e da faculdade. Alguns projetos podem ser encontrados fixados abaixo.
 
 ## Habilidades
 
