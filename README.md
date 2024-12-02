@@ -29,7 +29,7 @@
 <div> 
   <a href="https://www.linkedin.com/in/gabrielloureiros/" target="_blank"><img src="./image/linkedin.svg" target="_blank"></a>
   <a href="https://www.instagram.com/gabriel.loureiros/" target="_blank"><img src="./image/instagram.svg" target="_blank"></a>
-  <a href="./cv/Currículo Gabriel Loureiro.pdf" target="_blank"> <img src="./image/curriculo.svg" target="_blank">
+  <a href="./cv/Currículo Gabriel Loureiro.pdf" target="_blank"> <img src="./image/curriculo.svg" download="Currículo Gabriel Loureiro.pdf" target="_blank">
   <a href="https://gbloureiros.github.io/portfolio/" target="_blank"> <img src="./image/portfolio.svg"   target="_blank">
   </a>
 </div>
